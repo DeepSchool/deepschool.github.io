@@ -1,18 +1,9 @@
 ---
 layout: default
 ---
+# DeepSchool.io
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-
-[Link to another page](./another-page.html).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+A community to learn Deep Learning for Free! Democraticise AI.
 
 ## Header 2
 
@@ -22,12 +13,11 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
 
 ### Header 3
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
+```python
+// python code with syntax highlighting.
+def blah(a, b):
   dateformat.i18n = require('./lang/' + l)
-  return true;
-}
+  return true
 ```
 
 ```ruby
