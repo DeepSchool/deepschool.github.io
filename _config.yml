@@ -1,6 +1,6 @@
-title: Minimal theme
+title: DeepSchool.io
 logo: /assets/img/logo.jpg
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
+description: Deep Learning Learning
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
